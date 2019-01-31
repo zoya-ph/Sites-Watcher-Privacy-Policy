@@ -48,7 +48,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 ## Children’s Privacy
 
-These Services do not address anyone under the age of 18.
+These Services do not address anyone under the age of 17.
 
 ## Changes to This Privacy Policy
 
