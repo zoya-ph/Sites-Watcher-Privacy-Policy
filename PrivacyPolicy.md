@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: January 26, 2019
+Effective date: June 11, 2020
 
 Zoia Philippova built the «Sites Watcher» app as a Freemium app. This SERVICE is provided by Zoia Philippova at no cost and is intended for use as is.
 
@@ -16,7 +16,10 @@ For a better experience, while using our Service, I may require you to provide u
 
 The app does use third party services that may collect information used to identify you.
 
-Link to privacy policy of third party service providers used by the app: [Crashlytics Privacy Policy](http://try.crashlytics.com/terms/privacy-policy.pdf "To Crashlytics Privacy Policy...")
+Link to privacy policy of third party service providers used by the app
+
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 ## Log Data
 
